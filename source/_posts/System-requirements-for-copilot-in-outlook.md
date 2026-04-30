@@ -1,13 +1,14 @@
 ---
 title: Copilot in Outlook の機能について
 date: 2025-04-23
-lastupdate:
+lastupdate: 2026-04-30
 tags: Copilot
 ---
 
 こんにちは。日本マイクロソフト Exchange ＆ Outlook サポート チームの山本です。
 
 本記事では、お問い合わせいただくことも増えている Copilot in Outlook (Microsoft 365 Copilot のうち Outlook で利用できる機能) の利用可能なクライアント環境について説明します。
+**(2026 年 4 月 30 日追記) 本記事は 2025 年 4 月 23 日時点の情報を記載しております。現時点では Outlook の画面右と左で表示される Copilot アイコンのどちらからも Microsoft 365 Copilot Chat が利用できるようになっているなど、Copilot in Outlook の各機能は更新されております。**
 
 ## Copilot in Outlook の機能とご利用いただける環境
 
