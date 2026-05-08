@@ -1,5 +1,5 @@
 ---
-title: メールボックスのインポート/エクスポート用 Microsoft Graph API の一般提供開始
+title: メールボックスのインポート / エクスポート用 Microsoft Graph API の一般提供開始
 date: 2026/05/08 11:00
 tags: Exchange Online
 ---
@@ -47,7 +47,7 @@ tags: Exchange Online
 
 ## スロットリング、可搬性、本番利用時の考え方
 
-メールボックスのインポート/エクスポート API では、Microsoft Graph の他の Outlook リソースと同じ標準の [Outlook resource limits](https://learn.microsoft.com/graph/throttling-limits?view=graph-rest-beta#outlook-service-limits) が適用されます。
+メールボックスのインポート / エクスポート API では、Microsoft Graph の他の Outlook リソースと同じ標準の [Outlook resource limits](https://learn.microsoft.com/graph/throttling-limits?view=graph-rest-beta#outlook-service-limits) が適用されます。
 
 ## 詳細情報と利用開始
 

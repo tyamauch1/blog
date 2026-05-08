@@ -14,7 +14,7 @@ tags:
 - ステージ 1: Exchange ハイブリッド専用アプリへの移行。これは 2025 年 10 月に完了しました。オンプレミスでメールボックスをホストしている Exchange ハイブリッド環境では、オンプレミス ユーザーのリッチ共存機能を維持するために、Exchange ハイブリッド専用アプリの作成が必要になっています。
 - ステージ 2: Exchange ハイブリッドにおける EWS 呼び出しの廃止と、REST ベースの Microsoft Graph API 呼び出しへの切り替え。現在はこの段階にあります。なお、リッチ共存のすべてのシナリオがまだ完全にサポートされているわけではなく、すべてのクラウド環境で Graph API を使ったハイブリッド呼び出しを利用できるわけでもありません。詳細は、[ドキュメント](https://learn.microsoft.com/Exchange/hybrid-deployment/deploy-dedicated-hybrid-app#configure-graph-api-permissions) をご確認ください。
 
-Exchange Online における Exchange Web Services (EWS) の廃止は最終段階に近づいています。詳細は、[Exchange Online EWS：廃止期限が迫っています](/blog/exchange-online-ews-your-time-is-almost-up/)をご確認ください。このため、リッチ共存機能を必要とするすべての組織は、ステージ 1 をすでに完了している場合も含めて、オンプレミス環境に Exchange Subscription Edition (SE) の更新プログラムをインストールし、Exchange ハイブリッド専用アプリの権限を、より細かい Graph API の権限モデルへ切り替える必要があります。この対応は、2026 年 10 月までに完了する必要があります (この時点で EWS は既定で無効化されます)。遅くとも、Exchange Online で EWS が恒久的に無効化される 2027 年 4 月までには完了が必要です。
+Exchange Online における Exchange Web Services (EWS) の廃止は最終段階に近づいています。詳細は、[Exchange Online EWS：廃止期限が迫っています](/blog/exchange-online-ews-your-time-is-almost-up/)をご確認ください。このため、リッチ共存機能を必要とするすべての組織は、ステージ 1 をすでに完了している場合も含めて、オンプレミス環境に Exchange Server Subscription Edition (Exchange SE) の更新プログラムをインストールし、Exchange ハイブリッド専用アプリの権限を、より細かい Graph API の権限モデルへ切り替える必要があります。この対応は、2026 年 10 月までに完了する必要があります (この時点で EWS は既定で無効化されます)。遅くとも、Exchange Online で EWS が恒久的に無効化される 2027 年 4 月までには完了が必要です。
 
 次の図は、ハイブリッド セキュリティ強化のタイムラインにおけるステージ 2 を示しています。
 
