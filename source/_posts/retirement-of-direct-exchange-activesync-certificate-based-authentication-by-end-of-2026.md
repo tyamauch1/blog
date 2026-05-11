@@ -1,5 +1,5 @@
 ---
-title: "Exchange ActiveSync から Exchange Online への直接の証明書ベース認証を 2026 年末までに廃止"
+title: "Exchange ActiveSync における直接の証明書ベース認証 (CBA) を 2026 年末までに廃止"
 date: 2026/05/11
 tags:
 - Exchange Online
