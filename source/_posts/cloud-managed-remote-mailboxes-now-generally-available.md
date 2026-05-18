@@ -30,7 +30,7 @@ tags:
 
 2. **Exchange 属性の書き戻し**  
 更新: [この機能は現在利用可能です](/blog/writeback-for-cloud-managed-remote-mailboxes-now-in-public-preview/)。  
-Microsoft Entra Cloud Sync を通じて、クラウドからオンプレミスの Active Directory へ重要な Exchange 属性 (ドキュメントで言及されている属性) の書き戻しをオプトインで利用できるようになります。この機能は、オンプレミス AD でこれらの重要な属性に依存する LOB アプリを運用している組織でも、クラウド管理に移行した後もシームレスに動作できることを目的としています。この機能は 11 月にプライベート プレビューが提供され、来年初めに一般提供が予定されています。
+Microsoft Entra Cloud Sync を通じて、クラウドからオンプレミスの Active Directory へ重要な Exchange 属性 (ドキュメントで言及されている属性) の書き戻しをオプトインで利用できるようになります。この機能は、オンプレミス AD でこれらの重要な属性に依存する LOB アプリを運用している組織でも、クラウド管理に移行した後もシームレスに動作できることを目的としています。
 
 上記のいずれかの機能について、プライベート プレビューや早期アクセスへの参加をご希望の場合は、以下のフォームからご連絡ください。
  [https://forms.office.com/r/6wJJexJAZm](https://forms.office.com/r/6wJJexJAZm)
